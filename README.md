@@ -12,7 +12,7 @@ Low-code programming for event-driven applications.
 
 More documentation can be found [here](http://nodered.org/docs).
 
-## Authors
+## Author
 
 Akhtar Hussain
 
